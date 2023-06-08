@@ -1,0 +1,7 @@
+{
+  "name": "Petfriends",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

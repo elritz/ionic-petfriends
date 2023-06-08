@@ -1,0 +1,5 @@
+.container {
+  background: var(--ion-color-primary);
+  height: 50px;
+  width: 100%;
+}
